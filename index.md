@@ -2,11 +2,11 @@
 layout: default
 ---
 
-this is a new project about human-blance. 
+this is a new project about human-blance. （基于多模态信号的人体平衡能力的评估（展示方案初版））
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
-
+（项目展示排版：摘要；引言；综述（具体方案）；->数据集；实验；结论与展望；参考文献）
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # 摘要
@@ -17,7 +17,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 > This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> When something is important enough, you do it even if the odds are not in your favor.（这句可以写作文）
 
 ## 综述
 
