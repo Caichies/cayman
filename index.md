@@ -2,7 +2,7 @@
 layout: default
 ---
 
-this is a new project about human-blance. （基于多模态信号的人体平衡能力的评估（展示方案初版））（图片插入还未解决）
+this is a new project about human-blance. （基于多模态信号的人体平衡能力的评估（展示方案初版））（图片插入已解决）
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -100,7 +100,7 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 图片插入演示：
-           （1.上传图片到assets库里（assets/css/，应该是这个文件夹）（找add file按键，之后会建立一个文件夹的）
+              （1.上传图片到assets库里（assets/css/，应该是这个文件夹）（找add file按键，之后会建立一个文件夹的）
 
               2.在index.md或者html里（我没找到html版的，这个应该没有），输入如上引用：![图片描述](/assets/css/xxx.jpg(或者png，看具体后缀)
               
@@ -108,7 +108,7 @@ end
                
                （或者：使用一个URL来引用非本地图片，实例如上：![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)）
                
-本地实例如下：！[blue archive](/assets/css/icon.png)
+本地实例如下：
 
 ![blue archive](/assets/css/icon.png)
 
