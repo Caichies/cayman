@@ -2,7 +2,7 @@
 layout: default
 ---
 
-this is a new project about human-blance. （基于多模态信号的人体平衡能力的评估（展示方案初版））
+this is a new project about human-blance. （基于多模态信号的人体平衡能力的评估（展示方案初版））（图片插入还未解决）
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -19,7 +19,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.（这句可以写作文）
 
-## 综述
+## 综述（使用方法，技术）
 
 ```js
 // Javascript code with syntax highlighting.
@@ -61,14 +61,14 @@ end
 
 * * *
 
-### 数据集:
+### 数据集:（把老师说的那几个数据集先整理一下编辑到页面上吧）
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### 实验:
+### 实验:（这部分先不编辑）
 
 1.  Item one
 1.  Item two
