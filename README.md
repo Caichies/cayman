@@ -5,6 +5,32 @@
         5.排版和文字编辑风格详见微信分享。
         6.此库是编辑库，最后初版完成后我会folk此库出一个新库作为最终展示，所以不要随意更改文件结构。”
 
+“想自定义展示内容的话，主要会涉及以下几个文件：
+
+_config.yml: 基础配置。
+_layouts: 自定义布局。
+_includes: 添加或修改可重用的组件。
+assets: 加入自己的样式或脚本。
+index.md, another-page.md: 修改或添加内容。”
+
+“此外，我大概看了一下库的结构，每个文件夹注释如下：
+文件夹github: 用于存放与GitHub相关的设置和文件。
+_includes: 包含可重用的代码片段。
+_layouts: 定义页面的基础结构。
+_sass: 存放Sass样式文件。
+assets: 包含所有静态文件，如图片、CSS、JavaScript等。
+docs: 用于存放文档。
+script: 存放自动化脚本。
+.gitignore: Git忽略文件。
+.rubocop.yml: RuboCop配置文件。
+.travis.yml: Travis CI配置文件。
+Gemfile: 列出Ruby依赖。
+LICENSE: 开源许可证。
+README.md: 项目说明。
+_config.yml: Jekyll配置文件。
+another-page.md, index.md: Markdown文件，网站内容。
+jekyll-theme-cayman.gemspec: Ruby gem规格文件。”
+
 # The Cayman theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
