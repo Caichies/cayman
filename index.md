@@ -106,9 +106,9 @@ end
               
                3.保存改动，等待github自动更新网页）
                
-               （或者：使用一个URL来引用非本地图片，实例如上：）
+               （或者：使用一个URL来引用非本地图片，实例如上：![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)）
                
-本地实例如下：
+本地实例如下：！[blue archive](/assets/css/icon.png)
 
 ![blue archive](/assets/css/icon.png)
 
