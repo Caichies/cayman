@@ -106,7 +106,7 @@ end
               
                3.保存改动，等待github自动更新网页）
                
-               （或者：使用一个URL来引用非本地图片，实例如上：![Branching](https://guides.github.com/activities/hello-world/branching.png)）
+               （或者：使用一个URL来引用非本地图片，实例如上：）
                
 本地实例如下：
 
