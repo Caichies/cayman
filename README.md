@@ -1,3 +1,9 @@
+“编辑说明：1.网页具体内容在index.md里进行编辑，点击铅笔图标进入edit界面，注意一些标题中代码的中文编码问题，编辑结束后保存即commit changes，对于每次的修改如有必要写在提交时的summary里方便从action中查找记录回滚数据。
+        2.网页大标题文件位于_config.yml文件中，我来修改即可。
+        3.上传文件时，图片和其他文件统一上传至assets/css/中，命名要规范，不确定的问我，我最近会上传一个素材文件夹上去，不断补充。
+        4.上传时注意，网页上传文件统一只能一次上传一个文件且不能上传文件夹，可以使用github desktop的图形化界面上传本地库或者使用git（命令行，用起来很简洁）来上传本地库解决文件夹问题。
+        5.排版和文字编辑风格详见微信分享。”
+
 # The Cayman theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
