@@ -2,7 +2,7 @@
 layout: default
 ---
 
-this is a new project about human-blance. （基于多模态信号的人体平衡能力的评估（展示方案初版））（图片插入已解决）（注意符号统一，排版问题）（测试action错误问题）
+this is a new project about human-blance. （基于多模态信号的人体平衡能力的评估（展示方案初版））（图片插入已解决）（注意符号统一，排版问题）（测试action错误问题。已解决，问题初步估计是script/validate-html中的results.errors.each { |err| puts err }err后的.to_s字符串转换冗余，不确定err是否关联其他方法，但应该不影响，暂留存测试）
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
