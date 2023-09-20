@@ -9,11 +9,11 @@ There should be whitespace between paragraphs.
 （项目展示排版：摘要；引言；综述（具体方案）；->数据集；实验；结论与展望；参考文献）
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# 摘要
+# 摘要（这部分从关键词给出来的扩写润色一下就行）
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## 引言
+## 引言（从背景写到意义）
 
 > This is a blockquote following a header.
 >
@@ -75,7 +75,7 @@ end
 1.  Item three
 1.  Item four
 
-### 结论与展望:
+### 结论与展望:（项目预期成果与发展前景）
 
 - level 1 item
   - level 2 item
@@ -95,7 +95,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Large image（这个是链接，打开是github网站中git创建分支的介绍界面，不用管它只是个演示）
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
@@ -112,7 +112,7 @@ end
 
 ![blue archive](/assets/css/icon.png)
 
-### 参考文献：
+### 参考文献：（数据集+实验+方法）
 
 <dl>
 <dt>Name</dt>
