@@ -48,14 +48,20 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-#### 部分3
-
+#### 部分3（表格这部分说一下，html应该大家都不是很熟练，所以直接使用markdown语法来“画”一个表格出来，如下：
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+例：
+| 8 | 1 | 6 |
+|:--|:--|:--|
+| 3 | 5 | 7 |
+|:--|:--|:--|
+| 4 | 9 | 2 |
 
 ### There's a horizontal rule below this.
 
