@@ -48,7 +48,7 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-#### 部分3（表格这部分说一下，html应该大家都不是很熟练，所以直接使用markdown语法来“画”一个表格出来，如下：
+#### 部分3（表格这部分说一下，html应该大家都不是很熟练，所以直接使用markdown语法来“画”一个表格出来，如下：（注意，md的表格写法只有这一种展示形式，这意味着如果想要自定义需要使用html修改css文件，之后解决）
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
