@@ -35,10 +35,11 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-关于代码部分，如果需要参照上例：
+关于代码部分，如果需要参照上例或下例：
 ```js
-    cin<<“Hello World”<<endl;
-```end        
+    cout<<“Hello World!”<<endl;
+    return 0；
+```
 #### 部分1
 
 *   This is an unordered list following a header.
