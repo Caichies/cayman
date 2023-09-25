@@ -41,9 +41,9 @@ end
     return 0；
 ```
 
-注意：（```js
+注意：（“```js”
       
-      ```   是代码块展示格式，web不会展示出来）
+       “```”） 是代码块展示格式，web不会展示出来
 #### 部分1
 
 *   This is an unordered list following a header.
