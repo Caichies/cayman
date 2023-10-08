@@ -31,7 +31,7 @@ _config.yml: Jekyll配置文件。
 another-page.md, index.md: Markdown文件，网站内容。
 jekyll-theme-cayman.gemspec: Ruby gem规格文件。”
 
-最后说明一下，由于github page的网页编辑比较简单，且在已经有模板的情况下配合md可以使用自然语言来完成编写，所以如果无需整体结构变更和额外扩展就不需要以使用html为重点去改动。介于actions的修改日志可以配合多人在线修改，每次修改一定要记得注明summary。
+最后说明一下，由于github page的网页编辑比较简单，且在已经有模板的情况下配合md可以使用自然语言来完成编写，所以如果无需整体结构变更和额外扩展就不需要以使用scss或者html为重点去改动。介于actions的修改日志可以配合多人在线修改，每次修改一定要记得注明summary。
 
 # The Cayman theme
 
