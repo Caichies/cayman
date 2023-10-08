@@ -11,7 +11,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # 摘要（这部分从关键词给出来的扩写润色一下就行）
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+	失衡跌倒造成的伤害是导致老年人致残或死亡的主要原因之一。本项目利用多模态信号采集技术和机器学习算法，研究人体平衡能力的评估方法，为日常健康管理和老年人康复提供科学依据。首先，采集包括声音、图像、加速度等多模态信号。其次，融合现有人体平衡能力评估方法，构建并优化评估模型，实现对人体平衡能力的准确评估。最后，探索不同人群中平衡能力的差异，为健康管理和康复提供有针对性的方案。
 
 ## 引言（从背景写到意义）
 
