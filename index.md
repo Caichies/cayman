@@ -79,6 +79,7 @@ end
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
+
 一、数据采集概述：
 本项目主要收集图像信号及多模态生理信号以评估人体平衡能力。具体方案如下：
 
@@ -98,6 +99,7 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
+
 二、数据处理概述：
 1.数据预处理：
 数据预处理是保证高效数据分析的基础步骤。以加速度计数据为例，环境因素和系统误差等会产生噪声，影响数据准确性。采用低通滤波器、滑动平均滤波器等可消除高频噪声，但应根据项目需求选择合适的滤波器以得到最优效果。
@@ -120,6 +122,7 @@ end
 |:--|:--|:--|
 | 3 | 5 | 7 |
 | 4 | 9 | 2 |
+
 特征提取：（这个版本是按之前的申报书来的，应该有点问题，那么对着最后一版改改）
 
 本项目利用卷积神经网络（CNN）和长短时记忆网络（LSTM）从多模态生理信号数据中提取与平衡能力相关的特征。
@@ -168,6 +171,7 @@ CNN在跌倒检测领域占据领导地位，如Yu等提出的基于CNN的跌倒
   - level 2 item
   - level 2 item
 - level 1 item
+
 在为期一年的研究中，本项目计划取得如下三个预期成果：
 
 1.建立基于多模态信号的人体平衡能力筛查评估方法和相关指标，通过对大量数据的分析和挖掘，形成科学有效的评估方法，以帮助早期发现和诊断平衡障碍相关疾病。这一成果将为医疗机构提供一个有效的诊疗工具，帮助医生更准确地进行诊断和治疗。
